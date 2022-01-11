@@ -17,7 +17,7 @@ https://tamers-connect.herokuapp.com/
 - ソースコード管理：Github
 
 # ER図
-![ER図.pdf](https://github.com/sekiguchi0215/Tamers_Connect/files/7847666/ER.pdf)
+![ER図](https://user-images.githubusercontent.com/64962530/148971423-51892d08-5615-4a12-9559-f9bc631cc000.png)
 
 # 開発の経緯
 
