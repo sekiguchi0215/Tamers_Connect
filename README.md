@@ -1,24 +1,65 @@
-# README
+# URL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+https://tamers-connect.herokuapp.com/
 
-Things you may want to cover:
+# アプリ概要
+チーム形式の大会に参加する際のチームメイトを探すためのサービスです。
 
-* Ruby version
+# 使用技術
 
-* System dependencies
+- Ruby　2.7.3
+- Ruby on Rails　6.1.4.1
+- HTML
+- SCSS
+- Javascript
+- AWS S3
+- WEBサーバー：Heroku
+- ソースコード管理：Github
 
-* Configuration
+# ER図
+![ER図.pdf](https://github.com/sekiguchi0215/Tamers_Connect/files/7847666/ER.pdf)
 
-* Database creation
+# 開発の経緯
 
-* Database initialization
+# 開発で工夫したこと・こだわりポイント
 
-* How to run the test suite
+# 開発で苦労したこと
 
-* Services (job queues, cache servers, search engines, etc.)
+# 機能一覧
 
-* Deployment instructions
+#### ユーザー機能
+- 新規登録、編集、ログイン機能（devise）
+- ゲストログイン機能
+- 管理者機能
 
-* ...
+#### デッキリスト機能
+- デッキリスト登録機能
+  - 画像投稿機能
+  - 公開/非公開機能
+- 一覧表示機能
+- 詳細表示機能
+- 編集、削除機能
+
+#### メンバー募集機能
+- 投稿機能
+- 一覧表示機能
+- 詳細表示機能
+- 編集、削除機能
+
+#### 応募機能一覧
+#### ダイレクトメッセージ機能
+#### チーム機能
+- チーム作成機能
+- チームメッセージ機能
+- 招待機能
+#### 通知機能
+- 一覧表示機能
+- 既読機能
+- 削除機能
+#### その他機能
+- テスト機能（RSpec）
+
+
+
+# 今後追加したい機能
+
