@@ -1,6 +1,9 @@
 # URL
-
+Tamers_Connect
 https://tamers-connect.herokuapp.com/
+
+招待機能の実装で苦労したので、Qiita　の記事にアウトプット致しました。ご参照ください。
+https://qiita.com/sekiguchi0215/items/424249f7e28d90dcb832
 
 # アプリ概要
 チーム形式の大会に参加する際のチームメイトを探すためのサービスです。
